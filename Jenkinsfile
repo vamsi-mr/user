@@ -11,4 +11,3 @@ if ( ! env.BRANCH_NAME.equalsIgnoreCase('main') ) {   // ig not equals to main b
 else {
     echo "Please proceed with PROD process"
 }
-
